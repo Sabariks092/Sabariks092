@@ -22,7 +22,9 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>  
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>  
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+    <img height="50" width="50" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="Express.js"/>  
+
 </p>  
 
 ---
@@ -31,6 +33,7 @@
 <p align="start">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>  
+  <img height="50" width="50" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>  
   <img height="50" width="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse"/>  
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>  
 </p>  
