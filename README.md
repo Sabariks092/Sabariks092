@@ -14,11 +14,12 @@
 ### My Expertise  
 <p align="start">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>  
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>  
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> 
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <img height="50" width="50" src="https://icons8.com/icon/fAMVO_fuoOuC/php-logo" alt="PHP"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>  
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>  
