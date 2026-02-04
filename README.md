@@ -39,7 +39,7 @@
   <img height="50" width="50" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>  
   <img height="50" width="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse"/>  
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>  
-  <img height="50" src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.png" alt="Render"/>  
+  <img height="50" src="https://jumpshare.com/s/Rj3nyGcJV4tp75yezBDS" alt="Render"/>  
 </p>  
 
 ---
