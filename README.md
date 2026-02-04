@@ -33,10 +33,13 @@
 ### IDEs and Tools I Use  
 <p align="start">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>  
+  <img height="50" width="50" src="https://brandlogos.net/google-antigravity-vector-112734.html" alt="Google Antigravity"/>  
+  <img height="50" width="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cursor.png" alt="Cursor"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>  
   <img height="50" width="50" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>  
   <img height="50" width="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse"/>  
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>  
+  <img height="50" src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.png" alt="Render"/>  
 </p>  
 
 ---
